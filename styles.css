@@ -1,12 +1,62 @@
 body{
-  background-color: #D1C6AD;
-  color: #0B1D51;
+  background-color: #B0B2B8;
+  color: white;
+  border-radius: 15px;
 }
 
 .container{
-  background-color: #A1869E;
-  width: 85%;
+  background-color: #797596;
+  width: 90%;
   padding:auto;
   margin:auto;
   text-align:center;
+  border-radius: 15px;
+
 }
+
+header {
+  padding: 10px;
+}
+.image{
+  background-color: white;
+  margin: 100px 100px;
+  border-radius: 15px;
+}
+
+.image-description{
+  padding: 10px;
+}
+img {
+  padding: 10px;
+  border-radius: 15px;
+}
+
+p{
+  color: black;
+  margin: 10px;
+  padding: 1px;
+}
+
+.timeline{
+  background-color: white;
+  margin: 100px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.quote{
+  background-color: white;
+  margin: 100px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.link{
+  background-color: white;
+  margin: 100px;
+  padding: 10px;
+  border-radius: 15px;
+}
+ h1{
+  font-size: 60px;
+ }
