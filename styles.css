@@ -1,9 +1,10 @@
 body{
-  background-color: red;
+  background-color: #D1C6AD;
+  color: #0B1D51;
 }
 
 .container{
-  background-color: grey;
+  background-color: #A1869E;
   width: 85%;
   padding:auto;
   margin:auto;
