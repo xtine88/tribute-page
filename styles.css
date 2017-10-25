@@ -2,6 +2,7 @@ body{
   background-color: #B0B2B8;
   color: white;
   border-radius: 15px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .container{
@@ -16,6 +17,7 @@ body{
 
 header {
   padding: 10px;
+  font-family: 'Roboto', sans-serif;
 }
 .image{
   background-color: white;
