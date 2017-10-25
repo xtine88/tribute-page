@@ -51,6 +51,10 @@ p{
   border-radius: 15px;
 }
 
+footer{
+  float: right;
+}
+
 .link{
   background-color: white;
   margin: 25px 100px;
@@ -60,3 +64,4 @@ p{
  h1{
   font-size: 60px;
  }
+
