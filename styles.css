@@ -7,8 +7,8 @@ body{
 .container{
   background-color: #797596;
   width: 90%;
-  padding:auto;
-  margin:auto;
+  /*padding:auto;*/
+  margin: auto;
   text-align:center;
   border-radius: 15px;
 
@@ -19,7 +19,7 @@ header {
 }
 .image{
   background-color: white;
-  margin: 100px 100px;
+  margin: 25px 100px;
   border-radius: 15px;
 }
 
@@ -39,21 +39,21 @@ p{
 
 .timeline{
   background-color: white;
-  margin: 100px;
+  margin: 25px 100px;
   padding: 10px;
   border-radius: 15px;
 }
 
 .quote{
   background-color: white;
-  margin: 100px;
+  margin: 25px 100px;
   padding: 10px;
   border-radius: 15px;
 }
 
 .link{
   background-color: white;
-  margin: 100px;
+  margin: 25px 100px;
   padding: 10px;
   border-radius: 15px;
 }
